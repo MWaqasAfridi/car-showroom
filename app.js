@@ -2,12 +2,12 @@
 
 // Obeject is collection of data
 // var student ={} => how create a obejct
-// name : "Mustafa", => properties and its value
+// name : "Waqas", => properties and its value
 
 // var student = {
-// 	name: "Ghulam Mustafa",
-// 	email: "gmustafa@gmail.com",
-// 	phone: 3313408302,
+// 	name: "Muhammad Waqas",
+// 	email: "muhammadwaqas121960@gmail.com",
+// 	phone: 3212132824,
 // 	enrolled: true
 // }
 
@@ -54,7 +54,7 @@
 
 // how to add arry in objects 
 
-// student.subject = ["HTNL", "CSS", "JS"];
+// student.subject = ["HTML", "CSS", "JS"];
 
 // console.log(student); => print only obeject
 // console.log(student.subject); => print only object peroperty and its value
